@@ -1,0 +1,63 @@
+.title-container{
+    padding-top: 100px;
+    background-color: #B6FFFA;
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 40px;
+    color: burlywood;
+
+}
+#features{
+    background-color: #98E4FF;
+    font-weight: bold;
+    
+}
+.features-container h2{
+    color: #2192FF;
+    font-weight: bold;
+}
+.features-container div div p{
+    color: #3692e9;
+}
+
+.skills-container{
+    background-color: #80B3FF;
+}
+.skills-container h2{
+    color: #0002A1;
+    font-weight: bolder;
+}
+.skills-container p{
+    color:#292b94 ;
+}
+.Contact-container{
+    text-align: center;
+    background-color: #687EFF;
+}
+.Contact-container h2{
+    color: #66229e;
+    font-weight: bold;
+    
+}
+.Contact-container h3{
+    color: #3F0071;
+    font-weight: bolder;
+}
+.Contact-container p{
+    color: #1f0d2e;
+}
+.Contact-container a{
+    color: white;
+    text-decoration: none;
+    font-size: large;
+}
+.footer-container{
+    background-color: #6528F7;
+
+}
+.footer-container ul li a{
+    color: tomato;
+    text-decoration: none;
+}
+.footer-container span{
+    color: tomato;
+}
